@@ -30,6 +30,9 @@ n2=temp
 print("the swapped values are")
 ```
 
+## OUTPUT:
+!["OUTPUT"](out-2.png)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
